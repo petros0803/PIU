@@ -1,0 +1,7 @@
+C:\Users\Bobo\source\repos\Tema3\bin\Debug\Tema3.exe.config
+C:\Users\Bobo\source\repos\Tema3\bin\Debug\Tema3.exe
+C:\Users\Bobo\source\repos\Tema3\bin\Debug\Tema3.pdb
+C:\Users\Bobo\source\repos\Tema3\obj\Debug\Tema3.csprojAssemblyReference.cache
+C:\Users\Bobo\source\repos\Tema3\obj\Debug\Tema3.csproj.CoreCompileInputs.cache
+C:\Users\Bobo\source\repos\Tema3\obj\Debug\Tema3.exe
+C:\Users\Bobo\source\repos\Tema3\obj\Debug\Tema3.pdb
