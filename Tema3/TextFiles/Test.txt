@@ -1,0 +1,24 @@
+***Studentul cu id: 6a5f1fcb-3c0a-47a3-a844-395923787f6d***
+-->Nume: Serban Mihai Caliniuc.
+-->Student in anul: 2.
+-->Specializarea: Calculatoare.
+-->Media: 5.33
+-->Status: PROMOVAT.
+-->Limbajele preferate: Cpp.
+
+***Studentul cu id: da40bb44-85c1-4987-b509-f38b86d340ee***
+-->Nume: mamaam nanaaann.
+-->Student in anul: 2.
+-->Specializarea: Calculatoare.
+-->Media: 5.33
+-->Status: PROMOVAT.
+-->Limbajele preferate: Cpp.
+
+***Studentul cu id: 82636589-c310-4515-b3b2-17f876c62cba***
+-->Nume: Bogdan Ciprian Petrosceac.
+-->Student in anul: 2.
+-->Specializarea: Calculatoare.
+-->Media: 7.33
+-->Status: PROMOVAT.
+-->Limbajele preferate: Cs, HTML, CSS, JS, Py.
+

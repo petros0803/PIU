@@ -32,6 +32,17 @@ namespace Tema3
             ProgrammingLanguages = programmingLanguages;
         }
 
+        public Student(Guid studentID, string firstName, string lastName, int studyYear, double average, FacultySpecialization specialization, StudentProgrammingLanguages programmingLanguages)
+        {
+            Id = studentID;
+            FirstName = firstName;
+            LastName = lastName;
+            StudyYear = studyYear;
+            Average = average;
+            Specialization = specialization;
+            ProgrammingLanguages = programmingLanguages;
+        }
+
         public static bool ValidateGrades(double grade)
         {
             const double MIN_GRADE = 1.0;
@@ -183,13 +194,13 @@ namespace Tema3
 
         public override string ToString()
         {
-            return string.Format("***Studentul cu id {0}***\n" +
-                                 "--->Nume: {1} {2}.\n" +
-                                 "--->Student in anul: {3}.\n" +
-                                 "--->Specializarea: {4}.\n" +
-                                 "--->Media: {6:F2}\n" +
-                                 "--->Status: {5}.\n" +
-                                 "--->Limbajele preferate: {7}.\n",
+            return string.Format("***Studentul cu id: {0}***\n" +
+                                 "-->Nume: {1} {2}.\n" +
+                                 "-->Student in anul: {3}.\n" +
+                                 "-->Specializarea: {4}.\n" +
+                                 "-->Media: {6:F2}\n" +
+                                 "-->Status: {5}.\n" +
+                                 "-->Limbajele preferate: {7}.\n",
                                  Id, FirstName, LastName, StudyYear, Specialization, Promoted(Average), Average, ProgrammingLanguages);
         }
     }
