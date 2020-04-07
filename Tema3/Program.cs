@@ -19,7 +19,12 @@ namespace Tema3
         {
             List<Student> students = new List<Student>();
             string option;
+            Console.WriteLine("*********************SUNT 3 STUDENTI ADAUGATI*********************");
 
+            students.Add(new Student("Serban Mihai", "Caliniuc", 2, "5 6 5", FacultySpecialization.Calculatoare, StudentProgrammingLanguages.Cpp));
+            students.Add(new Student("mamaam", "nanaaann", 2, "5 6 5", FacultySpecialization.Calculatoare, StudentProgrammingLanguages.Cpp));
+            students.Add(new Student("Bogdan Ciprian", "Petrosceac", 2, "8 7 7", FacultySpecialization.Calculatoare, StudentProgrammingLanguages.Cs | StudentProgrammingLanguages.JS |
+                                                                             StudentProgrammingLanguages.CSS | StudentProgrammingLanguages.Py | StudentProgrammingLanguages.HTML));
             while (true)
             {
                 bool ok = true;
@@ -29,13 +34,9 @@ namespace Tema3
                 StudentProgrammingLanguages languages = StudentProgrammingLanguages.None;
 
                 Menu();
-                Console.WriteLine("*********************SUNT 3 STUDENTI ADAUGATI*********************");
+               
 
-                students.Add(new Student("Serban Mihai", "Caliniuc", 2, "5 6 5", FacultySpecialization.Calculatoare, StudentProgrammingLanguages.Cpp));
-                students.Add(new Student("mamaam", "nanaaann", 2, "5 6 5", FacultySpecialization.Calculatoare, StudentProgrammingLanguages.Cpp));
-                students.Add(new Student("Bogdan Ciprian", "Petrosceac", 2, "8 7 7", FacultySpecialization.Calculatoare, StudentProgrammingLanguages.Cs | StudentProgrammingLanguages.JS |
-                                                                                 StudentProgrammingLanguages.CSS | StudentProgrammingLanguages.Py | StudentProgrammingLanguages.HTML));
-
+               
                 Console.WriteLine("Optiunea aleasa: ");
                 option = Console.ReadLine();
                 switch (option.ToUpper())
@@ -88,14 +89,14 @@ namespace Tema3
                         students.Add(new Student(FirstName, LastName, studyYear, grades, (FacultySpecialization)val, languages));
                         break;
                     case "B":
-                        StreamWriter sw = new StreamWriter("C:/Users/Bobo/source/repos/Tema3/TextFiles/Test.txt");
+                        StreamWriter sw = new StreamWriter("C:/Users/Bobo/Documents/GitHub/PIU/Tema3/TextFiles/Test.txt");
                         Console.WriteLine("Sunt {0} studenti inregistrati", students.Count);
                         foreach (var stud in students)
                             sw.WriteLine(stud.ToString());
                         sw.Close();
                         break;
                     case "C":
-                        StreamReader sr = new StreamReader("C:/Users/Bobo/source/repos/Tema3/TextFiles/Test.txt");
+                        StreamReader sr = new StreamReader("C:/Users/Bobo/Documents/GitHub/PIU/Tema3/TextFiles/Test.txt");
                         while (line != null)
                         {
                             string firstName = string.Empty, lastName = string.Empty;
@@ -167,6 +168,9 @@ namespace Tema3
                         {
                             var result = Student.SearchAndModifyStudent(temporaryFirstName, temporaryLastName, stud);
                         }
+                        break;
+                    case "E":
+                        Console.WriteLine(students[0] == students[2]);
                         break;
                     case "X":
                         System.Environment.Exit(1);
@@ -253,8 +257,8 @@ namespace Tema3
             Console.WriteLine("A.Adauga student.");
             Console.WriteLine("B.Afiseaza toti studentii.");
             Console.WriteLine("C.Citeste studentii din fisier.");
-            Console.WriteLine("D.Compara notele a 2 studenti.");
-            Console.WriteLine("E.Cauta un student dupa nume si modifica-i datele.");
+            Console.WriteLine("D.Cauta un student dupa nume si modifica-i datele.");
+            Console.WriteLine("E.Compara 2 studenti.");
             Console.WriteLine("X.Inchide program.");
         }
     }

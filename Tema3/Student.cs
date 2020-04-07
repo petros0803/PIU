@@ -102,12 +102,12 @@ namespace Tema3
         public static string operator ==(Student x, Student y)
         {
             if (x.Average > y.Average)
-                return String.Format("\nStudentul {0} {1} are nota mai mare decat {2} {3}", x.FirstName, x.LastName, y.FirstName, y.LastName);
+                return String.Format("\nStudentul [{0} {1}] are nota mai mare decat [{2} {3}].", x.FirstName, x.LastName, y.FirstName, y.LastName);
             else if (x.Average < y.Average)
             {
-                return String.Format("\nStudentul {0} {1} are nota mai mare decat {2} {3}", y.FirstName, y.LastName, x.FirstName, x.LastName);
+                return String.Format("\nStudentul [{0} {1}] are nota mai mare decat [{2} {3}].", y.FirstName, y.LastName, x.FirstName, x.LastName);
             }
-            return String.Format("\nStudentii {0} {1} si {2} {3} au aceeasi nota", x.FirstName, x.LastName, y.FirstName, y.LastName);
+            return String.Format("\nStudentii [{0} {1}] si [{2} {3}] au aceeasi nota.", x.FirstName, x.LastName, y.FirstName, y.LastName);
         }
 
         public static string operator !=(Student x, Student y)          
