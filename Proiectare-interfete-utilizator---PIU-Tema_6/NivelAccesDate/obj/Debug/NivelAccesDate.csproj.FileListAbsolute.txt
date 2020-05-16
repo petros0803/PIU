@@ -7,3 +7,12 @@ E:\Facultate\C#\Tema 6\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.CoreCompil
 E:\Facultate\C#\Tema 6\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.CopyComplete
 E:\Facultate\C#\Tema 6\NivelAccesDate\obj\Debug\NivelAccesDate.dll
 E:\Facultate\C#\Tema 6\NivelAccesDate\obj\Debug\NivelAccesDate.pdb
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_6\NivelAccesDate\bin\Debug\NivelAccesDate.dll
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_6\NivelAccesDate\bin\Debug\NivelAccesDate.pdb
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_6\NivelAccesDate\bin\Debug\LibrarieModele.dll
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_6\NivelAccesDate\bin\Debug\LibrarieModele.pdb
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_6\NivelAccesDate\obj\Debug\NivelAccesDate.csprojAssemblyReference.cache
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_6\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.CoreCompileInputs.cache
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_6\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.CopyComplete
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_6\NivelAccesDate\obj\Debug\NivelAccesDate.dll
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_6\NivelAccesDate\obj\Debug\NivelAccesDate.pdb

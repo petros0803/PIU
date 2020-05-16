@@ -1,0 +1,12 @@
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_6\EvidentaStudenti\bin\Debug\EvidentaStudenti.exe.config
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_6\EvidentaStudenti\bin\Debug\EvidentaStudenti.exe
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_6\EvidentaStudenti\bin\Debug\EvidentaStudenti.pdb
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_6\EvidentaStudenti\bin\Debug\LibrarieModele.dll
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_6\EvidentaStudenti\bin\Debug\NivelAccesDate.dll
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_6\EvidentaStudenti\bin\Debug\LibrarieModele.pdb
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_6\EvidentaStudenti\bin\Debug\NivelAccesDate.pdb
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_6\EvidentaStudenti\obj\Debug\EvidentaStudenti-Consola.csprojAssemblyReference.cache
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_6\EvidentaStudenti\obj\Debug\EvidentaStudenti-Consola.csproj.CoreCompileInputs.cache
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_6\EvidentaStudenti\obj\Debug\EvidentaStudenti-Consola.csproj.CopyComplete
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_6\EvidentaStudenti\obj\Debug\EvidentaStudenti.exe
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_6\EvidentaStudenti\obj\Debug\EvidentaStudenti.pdb

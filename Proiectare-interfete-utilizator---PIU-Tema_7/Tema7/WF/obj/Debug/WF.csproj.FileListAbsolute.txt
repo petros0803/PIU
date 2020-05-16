@@ -1,0 +1,13 @@
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_7\Tema7\WF\bin\Debug\WF.exe.config
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_7\Tema7\WF\bin\Debug\WF.exe
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_7\Tema7\WF\bin\Debug\WF.pdb
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_7\Tema7\WF\obj\Debug\WF.csprojAssemblyReference.cache
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_7\Tema7\WF\obj\Debug\WF.Form1.resources
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_7\Tema7\WF\obj\Debug\WF.Properties.Resources.resources
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_7\Tema7\WF\obj\Debug\WF.csproj.GenerateResource.cache
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_7\Tema7\WF\obj\Debug\WF.csproj.CoreCompileInputs.cache
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_7\Tema7\WF\obj\Debug\WF.exe
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_7\Tema7\WF\obj\Debug\WF.pdb
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_7\Tema7\WF\bin\Debug\Student.dll
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_7\Tema7\WF\bin\Debug\Student.pdb
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_7\Tema7\WF\obj\Debug\WF.csproj.CopyComplete

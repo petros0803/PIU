@@ -1,0 +1,16 @@
+***Studentul cu id: 3ed034fa-7949-4531-8273-bb87468a1a86***
+-->Nume: Bogdan Petrosceac.
+-->Student in anul: 2.
+-->Specializarea: None.
+-->Note: 10, 10, 10, 2.
+-->Media: 8.00
+-->Limbajele preferate: None.
+
+***Studentul cu id: 3ed034fa-7949-4531-8273-bb87468a1a86***
+-->Nume: Bobo Spartanu.
+-->Student in anul: 1.
+-->Specializarea: Calculatoare.
+-->Note: 1.
+-->Media: 1.00
+-->Limbajele preferate: C.
+

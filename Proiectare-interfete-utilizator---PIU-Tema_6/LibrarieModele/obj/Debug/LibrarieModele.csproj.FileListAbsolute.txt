@@ -4,3 +4,9 @@ E:\Facultate\C#\Tema 6\LibrarieModele\obj\Debug\LibrarieModele.csprojAssemblyRef
 E:\Facultate\C#\Tema 6\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
 E:\Facultate\C#\Tema 6\LibrarieModele\obj\Debug\LibrarieModele.dll
 E:\Facultate\C#\Tema 6\LibrarieModele\obj\Debug\LibrarieModele.pdb
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_6\LibrarieModele\bin\Debug\LibrarieModele.dll
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_6\LibrarieModele\bin\Debug\LibrarieModele.pdb
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_6\LibrarieModele\obj\Debug\LibrarieModele.csprojAssemblyReference.cache
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_6\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_6\LibrarieModele\obj\Debug\LibrarieModele.dll
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_6\LibrarieModele\obj\Debug\LibrarieModele.pdb

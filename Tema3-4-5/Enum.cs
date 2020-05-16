@@ -19,9 +19,9 @@ namespace Tema3
     internal enum StudentProgrammingLanguages
     {
         None = 0,
-        Cpp = 1 << 0, // 1
-        C = 1 << 1, // 2
-        Cs = 1 << 2, // 4
+        Cpp = 1 << 0,     // 1
+        C = 1 << 1,      // 2
+        Cs = 1 << 2,    // 4
         HTML = 1 << 3, // 8
         CSS = 1 << 4, // 16
         JS = 1 << 5, // 32

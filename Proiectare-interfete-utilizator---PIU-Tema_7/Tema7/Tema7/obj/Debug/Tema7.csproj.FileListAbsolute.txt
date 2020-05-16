@@ -1,0 +1,7 @@
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_7\Tema7\Tema7\bin\Debug\Tema7.exe.config
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_7\Tema7\Tema7\bin\Debug\Tema7.exe
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_7\Tema7\Tema7\bin\Debug\Tema7.pdb
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_7\Tema7\Tema7\obj\Debug\Tema7.csprojAssemblyReference.cache
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_7\Tema7\Tema7\obj\Debug\Tema7.csproj.CoreCompileInputs.cache
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_7\Tema7\Tema7\obj\Debug\Tema7.exe
+C:\Users\Bobo\Documents\GitHub\PIU\Proiectare-interfete-utilizator---PIU-Tema_7\Tema7\Tema7\obj\Debug\Tema7.pdb
