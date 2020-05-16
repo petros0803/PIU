@@ -1,0 +1,6 @@
+E:\Facultate\C#\Tema 6\LibrarieModele\bin\Debug\LibrarieModele.dll
+E:\Facultate\C#\Tema 6\LibrarieModele\bin\Debug\LibrarieModele.pdb
+E:\Facultate\C#\Tema 6\LibrarieModele\obj\Debug\LibrarieModele.csprojAssemblyReference.cache
+E:\Facultate\C#\Tema 6\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+E:\Facultate\C#\Tema 6\LibrarieModele\obj\Debug\LibrarieModele.dll
+E:\Facultate\C#\Tema 6\LibrarieModele\obj\Debug\LibrarieModele.pdb

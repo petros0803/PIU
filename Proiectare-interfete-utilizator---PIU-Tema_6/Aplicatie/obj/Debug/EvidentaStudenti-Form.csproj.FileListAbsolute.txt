@@ -1,0 +1,12 @@
+E:\Facultate\C#\Tema 6\Aplicatie\bin\Debug\Aplicatie.exe.config
+E:\Facultate\C#\Tema 6\Aplicatie\bin\Debug\Aplicatie.exe
+E:\Facultate\C#\Tema 6\Aplicatie\bin\Debug\Aplicatie.pdb
+E:\Facultate\C#\Tema 6\Aplicatie\bin\Debug\LibrarieModele.dll
+E:\Facultate\C#\Tema 6\Aplicatie\bin\Debug\NivelAccesDate.dll
+E:\Facultate\C#\Tema 6\Aplicatie\bin\Debug\LibrarieModele.pdb
+E:\Facultate\C#\Tema 6\Aplicatie\bin\Debug\NivelAccesDate.pdb
+E:\Facultate\C#\Tema 6\Aplicatie\obj\Debug\EvidentaStudenti-Form.csprojAssemblyReference.cache
+E:\Facultate\C#\Tema 6\Aplicatie\obj\Debug\EvidentaStudenti-Form.csproj.CoreCompileInputs.cache
+E:\Facultate\C#\Tema 6\Aplicatie\obj\Debug\EvidentaStudenti-Form.csproj.CopyComplete
+E:\Facultate\C#\Tema 6\Aplicatie\obj\Debug\Aplicatie.exe
+E:\Facultate\C#\Tema 6\Aplicatie\obj\Debug\Aplicatie.pdb

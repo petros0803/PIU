@@ -1,0 +1,21 @@
+1;da;da;1 2 3;0
+2;da;da;1 2 3;0
+3;da;da;1 2 3;0
+4;da;dada;1 2 3;0
+5;da;dada;1 2 3;0
+1;da;da;;0
+1;asd;s;;0
+1;a;d;;0
+1;Petrosceac ;Bogdan;;0
+2;Petrosceac ;Bogdan;1;0
+3;Petrosceac;Bogdan;1;0
+4;Petrosceac;Bogdan;;0
+5;Petrosceac;Bogdan;1 2 3;0
+6;Petrosceac;Bogdan;1 2 3 5 6;0
+1;asd;asd;1 2 3;0
+2;asd;asd;;0
+3;asd;asd;1;0
+1;asd;asd;1 2 3;0
+2;asd;asd;1;0
+1;Petrosceac;Bogdan;1 2 3;0
+1;asd;asd;1 2;0
